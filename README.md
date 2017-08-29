@@ -1,2 +1,0 @@
-# RiderSettings
-My Rider settings
