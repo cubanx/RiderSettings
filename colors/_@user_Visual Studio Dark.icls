@@ -1,0 +1,29 @@
+<scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-08-12T12:20:14</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-08-25T18:19:51</property>
+    <property name="originalScheme">Visual Studio Dark</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+  <attributes>
+    <option name="ReSharper.CONTEXT_EXIT">
+      <value>
+        <option name="BACKGROUND" value="e4583" />
+        <option name="ERROR_STRIPE_COLOR" value="e4583" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="dedede" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
