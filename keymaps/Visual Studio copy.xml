@@ -17,6 +17,9 @@
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="f" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
