@@ -1,4 +1,5 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="200" />
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
