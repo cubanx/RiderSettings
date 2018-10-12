@@ -1,8 +1,9 @@
 <scheme name="Sublime Text 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Inconsolata" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
@@ -322,6 +323,11 @@
         <option name="FOREGROUND" value="f9faf4" />
       </value>
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="cfbfad" />
+      </value>
+    </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="ff007f" />
@@ -516,11 +522,6 @@
       <value>
         <option name="EFFECT_COLOR" value="3c3f41" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="cfbfad" />
       </value>
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
