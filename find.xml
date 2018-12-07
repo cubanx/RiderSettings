@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\CineNet.Graphics.CaptureManager\CineNet.Graphics.CaptureManager.Matrox.VwLib\VwPreview'" />
-    <option name="defaultScopeName" value="Directory '...\CineNet.Graphics.CaptureManager\CineNet.Graphics.CaptureManager.Matrox.VwLib\VwPreview'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\CineNet.Graphics.CaptureManager\CineNet.Graphics.CaptureManager.Matrox.VwLib\VwPreview'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
