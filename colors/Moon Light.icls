@@ -541,6 +541,13 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="FOREGROUND" value="6666ff" />
+        <option name="BACKGROUND" value="141414" />
+      </value>
+    </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
